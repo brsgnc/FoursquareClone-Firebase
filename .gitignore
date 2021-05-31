@@ -1,0 +1,53 @@
+Last login: Sun May 30 16:27:15 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Bahars-MacBook-Pro:~ baris$ cd Desktop/\*\*IOS\ Academy\*\*/FoursquareCloneFirebase/
+Bahars-MacBook-Pro:FoursquareCloneFirebase baris$ git init
+Initialized empty Git repository in /Users/barisgenc/Desktop/**IOS Academy**/FoursquareCloneFirebase/.git/
+Bahars-MacBook-Pro:FoursquareCloneFirebase baris$ git commit -m "Simplified Foursquare app"
+On branch master
+
+Initial commit
+
+Untracked files:
+	.gitignore.rtf
+	FoursquareCloneFirebase.xcodeproj/
+	FoursquareCloneFirebase.xcworkspace/
+	FoursquareCloneFirebase/
+	Podfile
+	Podfile.lock
+	Pods/
+
+nothing added to commit but untracked files present
+Bahars-MacBook-Pro:FoursquareCloneFirebase baris$ rm -rf .git
+Bahars-MacBook-Pro:FoursquareCloneFirebase baris$ git init
+Initialized empty Git repository in /Users/barisgenc/Desktop/**IOS Academy**/FoursquareCloneFirebase/.git/
+Bahars-MacBook-Pro:FoursquareCloneFirebase baris$ touch .gitignore
+Bahars-MacBook-Pro:FoursquareCloneFirebase baris$ vim .gitignore
+
+.DS_Store
+Pods
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+
